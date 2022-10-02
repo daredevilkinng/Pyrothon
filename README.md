@@ -12,8 +12,6 @@
 
 * Option no.4 for the members adding one group/chanannel to another one with scrapping 
 
-<b> For full tutorial, refer to <a href='https://www.youtube.com/watch?v=1TOxwoq4bjw'></a> </b>
-
 <h3 align="center">Features ♨️</h3>
 
 * Need of phone numbers
