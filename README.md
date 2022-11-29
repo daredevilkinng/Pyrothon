@@ -56,7 +56,7 @@ Installation done
 Now run script and login your phone numbers
 
 ```
-python pyrothon.py
+python3 pyrothon.py
 ```
 
 And then Adding Members By using the same pyrothon.py
